@@ -1,4 +1,4 @@
-package atelier02;
+package Atelier02;
 
 public class A {
 	public static boolean treize(int n) {
