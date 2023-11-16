@@ -1,4 +1,4 @@
-package atelier01;
+package Atelier01;
 
 public class SimpleProgramme1 {
 
