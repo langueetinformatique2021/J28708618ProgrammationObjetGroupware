@@ -1,5 +1,7 @@
 package Atelier05;
 
+import util.Keyboard;
+
 public class date {
 	// attributs de classe
 		private int jour, mois, annee;
